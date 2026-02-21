@@ -1,7 +1,7 @@
-# XJTLU_INT303
+# XJTLU_INT305
 ----
 ## Breif Introduction
-- This is a repository about [XJTLU](https://www.xjtlu.edu.cn/zh) lesson : INT303 FALL 25-26 ( Big Data Analysis )
+- This is a repository about [XJTLU](https://www.xjtlu.edu.cn/zh) lesson : INT305 FALL 25-26 ( Machine Learning )
 - Language : English , Chinese
 ----
 ## How to use this repository ?
